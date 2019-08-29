@@ -23,7 +23,7 @@ const：用来定义不可改变的常量
 #### 2. 数组方法
 ##### filter
 该方法创建一个新数组，新数组中返回符合条件的所有元素。
-https://github.com/Macus19/picBedForMarcus/blob/master/filter.png
+![avatar](https://github.com/Macus19/picBedForMarcus/blob/master/filter.png)
 
 ##### forEach
 该方法遍历每一个元素并为其执行方法。
