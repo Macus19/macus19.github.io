@@ -1,13 +1,13 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      常用的ES6方法和特性整理           # 标题 
-subtitle:   “当我跨过沉沦的一切，向着永恒开战的时候，你是我的军旗。” #副标题
+title:      常用的ES6方法和特性整理              # 标题 
+subtitle:   发一个试试水 #副标题
 date:       2019-08-29              # 时间
 author:     张三木                      # 作者
 header-img: img/background.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - ES6
+    - JavaScript
 ---
 #### 1. let和const
 let：用于声明变量
@@ -23,7 +23,7 @@ const：用来定义不可改变的常量
 #### 2. 数组方法
 ##### filter
 该方法创建一个新数组，新数组中返回符合条件的所有元素。
-![avatar](https://github.com/Macus19/picBedForMarcus/blob/master/filter.png)
+![5fab7be838731bddadb8f00a936def37.png](en-resource://database/1719:1)
 
 ##### forEach
 该方法遍历每一个元素并为其执行方法。
